@@ -9,3 +9,7 @@ Generate a comprehensive Forensics Investigation Report including:
 Methodology and tools used
 Screenshots and findings
 Conclusion and professional recommendations
+
+
+![Uploading image.png…]()
+
