@@ -10,7 +10,6 @@ Methodology and tools used
 Screenshots and findings
 Conclusion and professional recommendations
 
-
 ![Uploading image.png…]()
 
 ![Uploading image.png…]()
